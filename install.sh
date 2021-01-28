@@ -19,6 +19,9 @@ apk add yarn
 # install git
 apk add git
 
+# install git
+apk add zip
+
 # Install aws cli dependency python 
 apk add python py-pip openssl ca-certificates
 
